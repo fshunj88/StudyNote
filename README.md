@@ -4,6 +4,7 @@
 
 注意，
 整个makedown比较庞大，务必用Vnote这个软件[附带Vnote-Mac.dmg]来打开(随便浏览一下也行)，Github上看有些图片格式不支持的,然后直接用vnote打开note-all.md文件即可
+
 Vnote-Mac.dmg下载地址：https://djsidc.jb51.net/202304/tools/VNote_877624_jb51.dmg
 
 源码分析调用图可以看这些链接，本人用broadmix这个在线笔记编辑网站来记录所有笔记的,由于笔记比较庞大，务必等待网站1分钟左右才可以完全加载完成;
