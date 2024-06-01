@@ -25,6 +25,7 @@ https://boardmix.cn/app/share/CAE.CLfz5Q0gASoQn5tqrRe3V_EXln2I1cQR-TAGQAE/9AzkJn
 点击链接加入boardmix中的文件「Creator-资源管理&热更」
 
 开源项目：
+
 GitHub地址：[https://github.com/fshunj88/wx_res_hotupdate](https://github.com/fshunj88/wx_res_hotupdate)
 基于Creator2.2.x的微信小游戏的资源热更框架，本人项目的使用的，现在本人搞了简化版本，去除一些版本管理，还原最核心的原理
 附带一个PDF，里面有具体针对这个框架的分析和操作流程
